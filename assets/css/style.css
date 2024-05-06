@@ -654,6 +654,7 @@ footer {
     .active,.navigation a:hover {
         background: none;
         color: #603494;
+        pointer-events: none;
     }
 
     #check:checked ~ ul{
