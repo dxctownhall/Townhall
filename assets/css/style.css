@@ -1296,11 +1296,4 @@ footer {
   }
 
 
- @media screen and (max-width: 300px) {
-    #select-user ul {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-}
+
