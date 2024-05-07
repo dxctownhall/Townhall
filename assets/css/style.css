@@ -85,7 +85,7 @@ label {
 
 .navigation ul li a {
     text-decoration: none;
-    color: transparent;
+    color: #603494;
     font-size: 20px;
     padding: 7px 13px;
     border-radius: 3px;
@@ -654,7 +654,6 @@ footer {
     .active,.navigation a:hover {
         background: none;
         color: #603494;
-        
     }
 
     #check:checked ~ ul{
@@ -1295,6 +1294,3 @@ footer {
     /* padding: 2rem; */
     /* font-size:30px; */
   }
-
-
-
